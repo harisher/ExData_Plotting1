@@ -33,11 +33,8 @@ web site</a>:
 <li><b>Sub_metering_3</b>: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.</li>
 </ol>
 
+
 ## Loading the data
-
-
-
-
 
 When loading the dataset into R, please consider the following:
 
@@ -112,3 +109,6 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+## Running the R script files 
+
+The "household_power_consumption.txt" file should be placed in the same folder as the R script files for the scripts to run successfully.
